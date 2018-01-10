@@ -1,2 +1,0 @@
-# TourofHeroes
-angular4
